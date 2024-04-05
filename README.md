@@ -16,6 +16,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 일정 Schedule
 ---------------------  
 월요일
+
 |11:00-12:00 | Combinatorial Optimization|
 |12:00-13:30| Lunch|
 |13:30-15:00| Combinatorial Optimization|
@@ -24,6 +25,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 |18:00~| 저녁 식사|
 
 화/수/목요일
+
 |9:30-12:00 | Combinatorial Optimization|
 |12:00-13:30| Lunch|
 |13:30-15:00| From treewidth to grid minor theorem|
@@ -32,6 +34,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 |18:00~| 저녁 식사|
 
 금요일
+
 |9:30-12:00 | Combinatorial Optimization|
 |12:00-13:30| Lunch|
 |13:30-15:00| From treewidth to grid minor theorem|
