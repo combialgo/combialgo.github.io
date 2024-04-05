@@ -1,7 +1,7 @@
 2024 Summer School on Combinatorics and Algorithms
 ====================
 
-The 2024Summer School on Combinatorics and Algorithms is 
+The 2024 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics.  
 
 연사 및 프로그램 소개
 ---------------------
