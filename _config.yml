@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 2024 School on Combinatorics and Algorithms
-description: "2024 School on Combinatorics and Algorithms"
+description: "22-26 July 2024, KAIST, Daejeon"
 encoding: utf-8
 lang: ko-KR
 # baseurl: "" # the subpath of your site, e.g. /blog
