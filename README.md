@@ -23,7 +23,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 
 |1시반-3시| Chien-Chung 수업|
 
-|3시-5시| Break for HW and team study|
+|3시-5시| Homework and Team study|
 
 |5시-6시| Recitation |
 
@@ -31,14 +31,21 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 
 [화|수|목요일]
 9시30-12시: Chien-Chung Huang 수업
+
 12시-1시반: 점심 식사
+
 1시반-3시: Sebastian Wiederrecht 수업
-3시-5시: Break for HW and team study
+
+3시-5시: Homework and Team study
+
 5시-6시: Recitation 
+
 6시~ 저녁 식사
 
 [금요일]
 9시 30-12시: Chien-Chung Huang 수업
+
 12시-1시반: 점심 식사
+
 1시반-3시: Sebastian Wiederrecht 수업 
 
