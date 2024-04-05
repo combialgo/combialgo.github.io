@@ -1,3 +1,6 @@
+2024 Summer School on Combinatorics and Algorithms
+=========================
+
 여름학교 소개 About 
 ---------------------
 
@@ -44,8 +47,8 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 
 등록
 --------------------- 
-- 등록 사이트 registration site: 참가를 원하는 분들은 6월 26일까지 [https://indico.ibs.re.kr/e/combialgo](https://indico.ibs.re.kr/e/combialgo)에서 등록해주시기 바랍니다. Please resigster at [https://indico.ibs.re.kr/e/combialgo](https://indico.ibs.re.kr/e/combialgo) by 26 June. 
-- 숙박 지원 accommodation support: 숙박 지원이 필요한 분들 중 선착순으로 2인 1실 혹은 3인 1실로 카이스트 기숙사를 제공할 수 있습니다. 필요하신 경우 위 옵션으로 신청바랍니다. We can provide KAIST dormitory accommodations on a first-come, first-served basis for those who need lodging support, either for 2 persons per room or 3 persons per room. If you need, please select the corresponding options during the registration.
+- 등록 사이트 registration site: 참가를 원하는 분들은 6월 26일까지 [https://indico.ibs.re.kr/e/combialgo](https://indico.ibs.re.kr/e/combialgo)에서 등록해주시기 바랍니다. If you want to attend the summer school, please resigster at [https://indico.ibs.re.kr/e/combialgo](https://indico.ibs.re.kr/e/combialgo) by 26 June. 
+- 숙박 지원 accommodation support: 숙박 지원이 필요한 분들 중 선착순으로 2인 1실 혹은 3인 1실로 카이스트 기숙사를 제공할 수 있습니다. 필요하신 경우 위 옵션으로 신청바랍니다. We can provide KAIST dormitory accommodations on a first-come, first-served basis for those who need lodging support, either for 2 persons per room or 3 persons per room. If you need, you can apply for accommodation support by selecting the corresponding options during the registration.
 - 학생 (학부생/대학원생) 참가 지원자들의 경우 지도교수의 동의를 받아 등록해주시기 바랍니다. 
 
 Organizers / Sponsors
