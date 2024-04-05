@@ -13,6 +13,15 @@ This lecture (12.5h) will cover essential topics in combinatorial optimization i
 
 This lecture (6h) will present the notion of tree decomposition, treewidth and graph minor, and introduce the grid minor theorem by Robertson and Seymour. Grid minor theory is deemed as one of the most important theory in modern graph theory and has many applications in algorithms design, data structure, logic, etc. 
   
-스케줄
+일정
 ---------------------  
+월요일
+|11h-12h| Lecture on Combinatorial Optimization|
+|12h-13h30| Lunch|
+|1시반-3시| Chien-Chung 수업|
+|3시-5시| Break for HW and team study|
+|5시-6시: Recitation |
+|6시~| 저녁 식사|
+
+
 
