@@ -1,5 +1,4 @@
-2024 Summer School on Combinatorics and Algorithms
-====================
+
 
 - 날짜 Date: 7월 22-26일, 22-26 July 2024.
 - 장소 Place: 한국과학기술원 (KAIST) N1 빌딩, 대전. / N1 Building, KAIST, Daejeon, Korea.
