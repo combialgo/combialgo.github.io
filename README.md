@@ -50,5 +50,5 @@ Organizers / Sponsors
 - Eunjung Kim, KAIST
 - Eunjin Oh, POSTECH
 - Sang-il Oum, IBS
-- Sponsored by KAIST, KIAS, POSTECH
+Sponsored by KAIST, KIAS, POSTECH
 
