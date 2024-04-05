@@ -17,7 +17,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
   
 일정 Schedule
 ---------------------  
-월요일
+월요일 Monday
 
 |11:00-12:00 | Combinatorial Optimization|
 |12:00-13:30| Lunch|
@@ -25,7 +25,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 |15:00-17:00| Homework and Team study|
 |17:00-18:00| Recitation |
 
-화/수/목요일
+화/수/목요일 Tuesday/Wednesday/Thursday
 
 |9:30-12:00 | Combinatorial Optimization|
 |12:00-13:30| Lunch|
@@ -33,7 +33,7 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 |15:00-17:00| Homework and Team study|
 |17:00-18:00| Recitation |
 
-금요일
+금요일 Friday
 
 |9:30-12:00 | Combinatorial Optimization|
 |12:00-13:30| Lunch|
@@ -41,7 +41,8 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 
 등록
 --------------------- 
-
+- 등록 사이트 registration site: 참가를 원하는 학생들은 6월 26일까지 [registration site](https://indico.ibs.re.kr/e/combialgo/)에서 등록해주시기 바랍니다.
+- 숙박 지원 accommodation support: 숙박 지원이 필요한 분들 중 선착순으로 2인 1실 혹은 3인 1실로 카이스트 기숙사를 제공할 수 있습니다. 필요하신 경우 위 옵션으로 신청바랍니다. We can provide KAIST dormitory accommodations on a first-come, first-served basis for those who need lodging support, either for 2 persons per room or 3 persons per room. If you need, please select the corresponding options during the registration. 
 
 Organizers / Sponsors
 ---------------------
