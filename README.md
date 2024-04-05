@@ -18,15 +18,10 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 월요일
 
 |11h-12h | Lecture on Combinatorial Optimization|
-
 |12h-13h30| Lunch|
-
 |1시반-3시| Chien-Chung 수업|
-
 |3시-5시| Homework and Team study|
-
 |5시-6시| Recitation |
-
 |6시~| 저녁 식사|
 
 [화|수|목요일]
