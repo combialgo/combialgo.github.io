@@ -1,7 +1,9 @@
 2024 Summer School on Combinatorics and Algorithms
 ====================
 
-The 2024 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics.  
+The 2024 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. 
+It will be a great opportunity for young and aspiring researchers to study topics which are important but not covered during the lecture in the university classes.
+This summer, two lecture series, combinatorial optimization and grid minot theorem, will be given by two leading experts on the subjects. There will be exercise sessions where you form a team and solve challenging questions related to the lecture subjects.
 
 연사 및 프로그램 소개 Lecturers and Topics
 ---------------------
@@ -22,7 +24,6 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 |13:30-15:00| Combinatorial Optimization|
 |15:00-17:00| Homework and Team study|
 |17:00-18:00| Recitation |
-|18:00~| 저녁 식사|
 
 화/수/목요일
 
@@ -31,7 +32,6 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 |13:30-15:00| From treewidth to grid minor theorem|
 |15:00-17:00| Homework and Team study|
 |17:00-18:00| Recitation |
-|18:00~| 저녁 식사|
 
 금요일
 
