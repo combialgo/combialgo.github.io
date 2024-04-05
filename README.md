@@ -45,10 +45,9 @@ This lecture (6h) will present the notion of tree decomposition, treewidth and g
 
 Organizers / Sponsors
 ---------------------
-Jungho Ahn, KIAS
-Eunjung Kim, KAIST
-Eunjin Oh, POSTECH
-Sang-il Oum, IBS
-
+- Jungho Ahn, KIAS
+- Eunjung Kim, KAIST
+- Eunjin Oh, POSTECH
+- Sang-il Oum, IBS
 Sponsored by KAIST, KIAS, POSTECH
 
