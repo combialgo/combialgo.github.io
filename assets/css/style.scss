@@ -1,0 +1,28 @@
+---
+---
+
+$header-bg-color-secondary:#004191;
+$header-bg-color: #c80150;
+$section-headings-color: #c80150;
+
+div#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#logo img {
+    width: 200px;
+    padding-right: 30px;
+    vertical-align: middle;
+}
+div#logo img#postech {
+    width: 200px;
+    padding-right: 0px;
+    vertical-align: middle;
+}
+div#logo img#kaist {
+    width: 180px;
+    vertical-align: middle;
+}
+
+@import "{{ site.theme }}";
