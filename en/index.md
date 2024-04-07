@@ -29,9 +29,9 @@ Registration
 
 ## Organizers
 
-- [Eunjung Kim](https://www.lamsade.dauphine.fr/~kim/) (KAIST CS)
-- [Jungho Ahn](https://www.junghoahn.com) (KIAS)
-- [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Mathematicsl Sciences)
+- [Eunjung Kim](https://www.lamsade.dauphine.fr/~kim/) (KAIST School of Computing)
+- [Jungho Ahn](https://www.junghoahn.com) (KIAS School of Compuatational Sciences)
+- [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematicsl Sciences)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
 
 {% include logo.html %}
