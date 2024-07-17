@@ -6,7 +6,7 @@ title: 2024 Summer School on Combinatorics and Algorithms
 [Korean](/)
 
 - Date: 22-26 July 2024.
-- Place: Bldg. N1, KAIST, Daejeon, Korea.
+- Place: Bldg. E11 (Creative Learning Bldg), Lecture Room 412, KAIST, Daejeon, Korea.
   
 The 2024 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. 
 It will be a great opportunity for young and aspiring researchers to study topics which are important but not covered during the lectures in the university classes.
