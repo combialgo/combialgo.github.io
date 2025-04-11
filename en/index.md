@@ -5,6 +5,8 @@ description: "14-17 July 2025, POSTECH"
 --- 
 ## 2025 Summer School on Combinatorics and Algorithms
 
+![2024 Photo](/assets/2024.jpg)
+
 [Korean](/)
 
 - Date: 14-17 July 2025.

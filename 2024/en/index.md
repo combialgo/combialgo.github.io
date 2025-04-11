@@ -5,6 +5,8 @@ description: "22-26 July 2024, KAIST, Daejeon"
 --- 
 ## 2024 Summer School on Combinatorics and Algorithms
 
+![2024 Photo](/assets/2024.jpg)
+
 [Korean](/2024/)
 
 - Date: 22-26 July 2024.
