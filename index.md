@@ -4,9 +4,10 @@ description: "14-17 July 2025, POSTECH"
 --- 
 # 2025 조합론 및 알고리듬 여름학교
 
+[English](/en/)
+
 ![2024 Photo](/assets/2024.jpg)
 
-[English](/en/)
 
 - 날짜: 2025년 7월 14-18일
 - 장소: POSTECH
