@@ -25,4 +25,12 @@ div#logo img#kaist {
     vertical-align: middle;
 }
 
+img.speaker{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-right: 50px;
+}
+
 @import "{{ site.theme }}";

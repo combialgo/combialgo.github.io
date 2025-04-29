@@ -6,7 +6,6 @@ description: "14-17 July 2025, POSTECH"
 
 [English](/en/)
 
-![2024 Photo](/assets/2024.jpg)
 
 
 - 날짜: 2025년 7월 14-18일
@@ -25,7 +24,7 @@ description: "14-17 July 2025, POSTECH"
 
 등록
 --------------------- 
-- [등록 홈페이지](https://indico.ibs.re.kr/e/combialgo2025): 추후 공지 
+- [등록 홈페이지 https://indico.ibs.re.kr/e/combialgo2025](https://indico.ibs.re.kr/e/combialgo2025): 등록 마감 5월 31일.
 
 
 ## 조직위원
@@ -37,6 +36,8 @@ description: "14-17 July 2025, POSTECH"
 ## 역사
 
 - [2024년 조합론 및 알고리듬 여름학교](/2024/)
+
+![2024 Photo](/assets/2024.jpg)
 
 {% include logo.html %}
 

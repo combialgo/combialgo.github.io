@@ -7,7 +7,6 @@ description: "14-17 July 2025, POSTECH"
 
 [Korean](/)
 
-![2024 Photo](/assets/2024.jpg)
 
 
 - Date: 14-17 July 2025.
@@ -28,7 +27,7 @@ Schedule
   
 Registration
 --------------------- 
-- [Register](https://indico.ibs.re.kr/e/combialgo2025): To be announced.
+- [Register at https://indico.ibs.re.kr/e/combialgo2025](https://indico.ibs.re.kr/e/combialgo2025): Deadline May 31.
 
 ## Organizers
 
@@ -38,6 +37,9 @@ Registration
 
 ## History
 - [2024 Summer School on Combinatorics and Algorithms](/2024/en/)
+
+![2024 Photo](/assets/2024.jpg)
+
 
 {% include logo.html %}
 
