@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 2024 Summer School on Combinatorics and Algorithms
-description: "22-26 July 2024, KAIST, Daejeon"
+title: 2025 Summer School on Combinatorics and Algorithms
+description: "14-18 July 2025, KAIST, Daejeon"
 encoding: utf-8
 lang: ko-KR
 # baseurl: "" # the subpath of your site, e.g. /blog

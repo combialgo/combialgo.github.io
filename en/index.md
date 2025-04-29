@@ -1,6 +1,6 @@
 ---
 title: 2025 Summer School on Combinatorics and Algorithms
-description: "14-17 July 2025, POSTECH"
+description: "14-18 July 2025, POSTECH"
 
 --- 
 ## 2025 Summer School on Combinatorics and Algorithms
@@ -9,7 +9,7 @@ description: "14-17 July 2025, POSTECH"
 
 
 
-- Date: 14-17 July 2025.
+- Date: 14-18 July 2025.
 - Place: POSTECH.
   
 The 2025 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. 
