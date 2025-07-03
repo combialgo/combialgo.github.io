@@ -7,11 +7,28 @@ description: "14-18 July 2025, POSTECH"
 
 [Korean](/)
 
-
+<div id="map"></div>
+<script language="javascript">
+var map = L.map('map').setView([36.011,129.3222], 17);
+L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+L.control.scale().addTo(map);
+function pm(label, lat, long, title,link) {
+    var myIcon=L.divIcon({className:"mi", html:label });
+    L.marker([lat, long],{icon:myIcon}).addTo(map)
+    .bindPopup('<b><a href="'+link+'" target=_new>'+title+'</a></b>');
+}
+pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
+pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
+</script>
 
 - Date: 14-18 July 2025.
 - Place: POSTECH.
-  
+  - Lecture: <span class="mi">1</span> [Institute of Artificial Intelligence (인공지능연구원)](https://naver.me/xY47CR3o) Room 122
+  - Recitation: <span class="mi">2</span> [Hogil Kim Memorial Hall (무은재기념관)](https://naver.me/xyTaSNCN) Rooms 303, 304, 305, 309
+
 The 2025 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. 
 It will be a great opportunity for young and aspiring researchers to study topics which are important but not covered during the lectures in the university classes.
 

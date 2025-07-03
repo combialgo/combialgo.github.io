@@ -8,9 +8,29 @@ description: "14-18 July 2025, POSTECH"
 
 
 
+<div id="map"></div>
+<script language="javascript">
+var map = L.map('map').setView([36.011,129.3222], 17);
+L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+L.control.scale().addTo(map);
+function pm(label, lat, long, title,link) {
+    var myIcon=L.divIcon({className:"mi", html:label });
+    L.marker([lat, long],{icon:myIcon}).addTo(map)
+    .bindPopup('<b><a href="'+link+'" target=_new>'+title+'</a></b>');
+}
+pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
+pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
+</script>
+
 - 날짜: 2025년 7월 14-18일
 - 장소: POSTECH
-  
+  - 강의실: <span class="mi">1</span> [인공지능연구원](https://naver.me/xY47CR3o) 122호
+  - 연습세션: <span class="mi">2</span> [무은재기념관](https://naver.me/xyTaSNCN) 303호, 304호, 305호, 309호
+
+
 2025년 조합론 및 알고리듬 여름학교는 이론 컴퓨터 과학과 이산수학 분야의 선별된 주제를 학생들과 초기 경력 연구자들이 배우는 장소입니다. 이는 대학 강의에서 다루지 않지만 중요한 주제를 공부할 수 있는 좋은 기회가 될 것입니다. 
 
 
