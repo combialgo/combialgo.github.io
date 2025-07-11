@@ -48,14 +48,18 @@ Registration
 
 ## Organizers
 
-- [Eunjung Kim](https://www.lamsade.dauphine.fr/~kim/) (KAIST School of Computing)
+- [Eunjung Kim](https://ssimplexity.github.io) (KAIST School of Computing)
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
 
 ## History
 - [2024 Summer School on Combinatorics and Algorithms](/2024/en/)
 
-![2024 Photo](/assets/2024.jpg)
+
+## Local Information 
+![POSTECH Campus Map](/assets/postechmap2025en.png)
+
+- [List of restaurants](/assets/pdf/restaurants2025en.pdf)
 
 
 {% include logo.html %}

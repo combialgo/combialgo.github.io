@@ -57,7 +57,11 @@ pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
 
 - [2024년 조합론 및 알고리듬 여름학교](/2024/)
 
-![2024 Photo](/assets/2024.jpg)
+
+## 정보 
+![POSTECH Campus Map](/assets/postechmap2025.png)
+
+- [교내 및 인근 식당 리스트](/assets/pdf/restaurants2025.pdf)
 
 {% include logo.html %}
 

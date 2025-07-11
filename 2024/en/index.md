@@ -34,7 +34,7 @@ Registration
 
 ## Organizers
 
-- [Eunjung Kim](https://www.lamsade.dauphine.fr/~kim/) (KAIST School of Computing)
+- [Eunjung Kim](https://ssimplexity.github.io) (KAIST School of Computing)
 - [Jungho Ahn](https://www.junghoahn.com) (KIAS School of Computational Sciences)
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)

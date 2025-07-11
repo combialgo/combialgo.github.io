@@ -1,6 +1,12 @@
 
 - Start on 14 July 2025 Monday, 2 PM
+- Registration and Entry Badge Collection
+    - Time: July 14 (Mon), 12:00 PM – 1:30 PM
+    - Location: Room 122, 1st Floor, PIAI building
+    - Please wear your entry badge at all times during the event and return it at the same location on the last day.
+- Banquet: Thursday evening, July 17, at the POSCO International Center.
 - End on 18 July 2025 Friday, 5 PM
+
 
 <table border=0 cellpadding=0 cellspacing=0 width=894 style='border-collapse:
  collapse;table-layout:fixed;width:670pt'>
