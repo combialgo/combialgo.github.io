@@ -28,7 +28,8 @@ pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
 - 날짜: 2025년 7월 14-18일
 - 장소: POSTECH
   - 강의실: <span class="mi">1</span> [인공지능연구원](https://naver.me/xY47CR3o) 122호
-  - 연습세션: <span class="mi">2</span> [무은재기념관](https://naver.me/xyTaSNCN) 303호, 304호, 305호, 309호
+  - 연습실: 제2공학관 Room 104 (Group 1~4), Room 106 (Group 5~8), Room 107 (Group 9~12), Room 109 (Group 13~16)
+  - Free Discussion Session: <span class="mi">2</span> [무은재기념관](https://naver.me/xyTaSNCN) 303호, 304호, 305호, 309호
 
 
 2025년 조합론 및 알고리듬 여름학교는 이론 컴퓨터 과학과 이산수학 분야의 선별된 주제를 학생들과 초기 경력 연구자들이 배우는 장소입니다. 이는 대학 강의에서 다루지 않지만 중요한 주제를 공부할 수 있는 좋은 기회가 될 것입니다. 
