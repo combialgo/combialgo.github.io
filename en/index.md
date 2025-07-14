@@ -22,12 +22,14 @@ function pm(label, lat, long, title,link) {
 }
 pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
 pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
+pm(3, 36.012041, 129.321994, 'Engineering Building II', 'https://naver.me/5qD7jmvo');
+
 </script>
 
 - Date: 14-18 July 2025.
 - Place: POSTECH.
   - Lecture: <span class="mi">1</span> [Institute of Artificial Intelligence (인공지능연구원)](https://naver.me/xY47CR3o) Room 122
-  - Recitation: Engineering Building II, Room 104 (Group 1~4), Room 106 (Group 5~8), Room 107 (Group 9~12), Room 109 (Group 13~16)
+  - Recitation: <span class="mi">3</span> [Engineering Building II](https://naver.me/5qD7jmvo), Room 104 (Group 1~4), Room 106 (Group 5~8), Room 107 (Group 9~12), Room 109 (Group 13~16)
   - Free Discussion Session: <span class="mi">2</span> [Hogil Kim Memorial Hall (무은재기념관)](https://naver.me/xyTaSNCN) Rooms 303, 304, 305, 309
 
 The 2025 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. 
