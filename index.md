@@ -23,7 +23,7 @@ function pm(label, lat, long, title,link) {
 }
 pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
 pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
-pm(3, 36.012041, 129.321994, '제2공학관', 'https://naver.me/5qD7jmvo');
+pm(3, 36.012441, 129.321948, '제2공학관', 'https://naver.me/5qD7jmvo');
 
 </script>
 
