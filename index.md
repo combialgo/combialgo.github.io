@@ -33,7 +33,7 @@ description: "14-18 July 2025, POSTECH"
 
 ## 조직위원
 
-- [김은정](https://www.lamsade.dauphine.fr/~kim/) (KAIST 전산학부)
+- [김은정](https://ssimplexity.github.io/) (KAIST 전산학부)
 - [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
 - [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
 
