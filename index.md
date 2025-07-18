@@ -6,26 +6,7 @@ description: "14-18 July 2025, POSTECH"
 
 [English](/en/)
 
-
-
-<div id="map"></div>
-<script language="javascript">
-var map = L.map('map').setView([36.011,129.3222], 17);
-L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-L.control.scale().addTo(map);
-function pm(label, lat, long, title,link) {
-    var myIcon=L.divIcon({className:"mi", html:label });
-    L.marker([lat, long],{icon:myIcon}).addTo(map)
-    .bindPopup('<b><a href="'+link+'" target=_new>'+title+'</a></b>');
-}
-pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
-pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
-pm(3, 36.012441, 129.321948, '제2공학관', 'https://naver.me/5qD7jmvo');
-
-</script>
+![Group Photo 2025](/assets/2025combialgo.jpg)
 
 - 날짜: 2025년 7월 14-18일
 - 장소: POSTECH
@@ -62,6 +43,28 @@ pm(3, 36.012441, 129.321948, '제2공학관', 'https://naver.me/5qD7jmvo');
 
 
 ## 정보 
+
+
+
+<div id="map"></div>
+<script language="javascript">
+var map = L.map('map').setView([36.011,129.3222], 17);
+L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+L.control.scale().addTo(map);
+function pm(label, lat, long, title,link) {
+    var myIcon=L.divIcon({className:"mi", html:label });
+    L.marker([lat, long],{icon:myIcon}).addTo(map)
+    .bindPopup('<b><a href="'+link+'" target=_new>'+title+'</a></b>');
+}
+pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
+pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
+pm(3, 36.012441, 129.321948, '제2공학관', 'https://naver.me/5qD7jmvo');
+
+</script>
+
 ![POSTECH Campus Map](/assets/postechmap2025.png)
 
 - [교내 및 인근 식당 리스트](/assets/pdf/restaurants2025.pdf)
