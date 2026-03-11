@@ -1,2 +1,1 @@
-2024 Summer School on Combinatorics and Algorithms
-
+Summer School on Combinatorics and Algorithms website

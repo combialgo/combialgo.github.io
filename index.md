@@ -1,74 +1,62 @@
 ---
-title: 2025 Summer School on Combinatorics and Algorithms
-description: "14-18 July 2025, POSTECH"
---- 
-# 2025 조합론 및 알고리듬 여름학교
+title: Summer School on Combinatorics and Algorithms
+description: "Browse the 2024, 2025, and 2026 summer school pages."
+---
 
-[English](/en/)
+<div class="year-landing">
+  <p class="year-landing__lang"><a href="/en/">English</a></p>
 
-![Group Photo 2025](/assets/2025combialgo.jpg)
+  <div class="year-landing__hero">
+    <p class="year-landing__eyebrow">Summer School Series</p>
+    <h1>조합론 및 알고리듬 여름학교</h1>
+    <p class="year-landing__intro">조합론 및 알고리듬 여름학교는 이론 컴퓨터 과학과 이산수학 분야의 선별된 주제를 학생들과 초기 경력 연구자들이 배우는 장소입니다. 이는 대학 강의에서 다루지 않지만 중요한 주제를 공부할 수 있는 좋은 기회가 될 것입니다.</p>
+  </div>
 
-- 날짜: 2025년 7월 14-18일
-- 장소: POSTECH
-  - 강의실: <span class="mi">1</span> [인공지능연구원](https://naver.me/xY47CR3o) 122호
-  - 그룹 토의 및 연습실: <span class="mi">3</span> [제2공학관](https://naver.me/5qD7jmvo) Room 104 (Group 1~4), Room 106 (Group 5~8), Room 107 (Group 9~12), Room 109 (Group 13~16)
-  - 저녁 시간 자유 토의실: <span class="mi">2</span> [무은재기념관](https://naver.me/xyTaSNCN) 303호, 304호, 305호, 309호
+  <div class="year-cards year-cards--featured">
+    <article class="year-card year-card--featured">
+      <p class="year-card__badge">Upcoming</p>
+      <h2>2026</h2>
+      <p class="year-card__subtitle">추후 공지</p>
+      <dl class="year-card__meta">
+        <dt>날짜</dt>
+        <dd>2026년 8월 10-14일</dd>
+        <dt>연사</dt>
+        <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
+      </dl>
+      <p>현재 확정된 정보만 먼저 공개되어 있습니다. 프로그램, 등록, 장소 정보는 추후 업데이트됩니다.</p>
+      <p><a class="year-card__link" href="/2026/">2026 페이지 보기</a></p>
+    </article>
+  </div>
 
+  <div class="year-cards year-cards--archive">
+    <article class="year-card">
+      <p class="year-card__badge year-card__badge--past">Archive</p>
+      <h2>2025</h2>
+      <p class="year-card__subtitle">POSTECH</p>
+      <dl class="year-card__meta">
+        <dt>날짜</dt>
+        <dd>2025년 7월 14-18일</dd>
+        <dt>강연자</dt>
+        <dd>Édouard Bonnet (LIP, CNRS), Michał Pilipczuk (University of Warsaw)</dd>
+      </dl>
+      <p>포항에서 열린 2025 여름학교의 프로그램, 일정, 현장 정보와 자료를 볼 수 있습니다.</p>
+      <p><a class="year-card__link" href="/2025/">2025 페이지 보기</a></p>
+    </article>
 
-2025년 조합론 및 알고리듬 여름학교는 이론 컴퓨터 과학과 이산수학 분야의 선별된 주제를 학생들과 초기 경력 연구자들이 배우는 장소입니다. 이는 대학 강의에서 다루지 않지만 중요한 주제를 공부할 수 있는 좋은 기회가 될 것입니다. 
-
-
-연사 및 프로그램 소개
----------------------
-{% include program2025.md %}
-  
-일정 
----------------------  
-{% include schedule2025.md %}
-
-등록
---------------------- 
-- [등록 홈페이지 https://indico.ibs.re.kr/e/combialgo2025](https://indico.ibs.re.kr/e/combialgo2025): 등록 마감 5월 31일.
-
-
-## 조직위원
-
-- [김은정](https://ssimplexity.github.io/) (KAIST 전산학부)
-- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
-- [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
-
-## 역사
-
-- [2024년 조합론 및 알고리듬 여름학교](/2024/)
-
-
-## 정보 
-
-
-
-<div id="map"></div>
-<script language="javascript">
-var map = L.map('map').setView([36.011,129.3222], 17);
-L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-L.control.scale().addTo(map);
-function pm(label, lat, long, title,link) {
-    var myIcon=L.divIcon({className:"mi", html:label });
-    L.marker([lat, long],{icon:myIcon}).addTo(map)
-    .bindPopup('<b><a href="'+link+'" target=_new>'+title+'</a></b>');
-}
-pm(1, 36.010656, 129.321426, '인공지능연구원', 'https://naver.me/xY47CR3o');
-pm(2, 36.012041, 129.322353, '무은재기념관', 'https://naver.me/xyTaSNCN');
-pm(3, 36.012441, 129.321948, '제2공학관', 'https://naver.me/5qD7jmvo');
-
-</script>
-
-![POSTECH Campus Map](/assets/postechmap2025.png)
-
-- [교내 및 인근 식당 리스트](/assets/pdf/restaurants2025.pdf)
+    <article class="year-card">
+      <p class="year-card__badge year-card__badge--past">Archive</p>
+      <h2>2024</h2>
+      <p class="year-card__subtitle">KAIST, Daejeon</p>
+      <dl class="year-card__meta">
+        <dt>날짜</dt>
+        <dd>2024년 7월 22-26일</dd>
+        <dt>강연자</dt>
+        <dd>Chien-Chung Huang (ENS Paris, France), Sebastian Wiederrecht (DIMAG-IBS, Korea)</dd>
+      </dl>
+      <p>첫 행사였던 2024 여름학교의 강연 주제와 일정, 등록 안내를 확인할 수 있습니다.</p>
+      <p><a class="year-card__link" href="/2024/">2024 페이지 보기</a></p>
+    </article>
+  </div>
+</div>
 
 {% include logo.html %}
-
-
