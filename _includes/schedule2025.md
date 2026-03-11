@@ -8,8 +8,7 @@
 - End on 18 July 2025 Friday, 5 PM
 
 
-<table border=0 cellpadding=0 cellspacing=0 width=894 style='border-collapse:
- collapse;table-layout:fixed;width:670pt'>
+<table class="timetable" border=0 cellpadding=0 cellspacing=0 width=894 style='border-collapse:collapse;table-layout:fixed;width:670pt'>
  <col width=87 style='width:65pt'>
  <col width=144 span=5 style='mso-width-source:userset;mso-width-alt:4608;
  width:108pt'>
