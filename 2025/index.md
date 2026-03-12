@@ -5,7 +5,7 @@ description: "14-18 July 2025, POSTECH"
 
 # 2025 조합론 및 알고리듬 여름학교
 
-[English](/2025/en/)
+<p class="page-lang"><a href="/2025/en/">English</a></p>
 
 ![Group Photo 2025](/assets/2025combialgo.jpg)
 
@@ -35,11 +35,7 @@ description: "14-18 July 2025, POSTECH"
 - [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
 - [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
 
-## 다른 연도
-
-- [2026년 조합론 및 알고리듬 여름학교](/2026/)
-- [2024년 조합론 및 알고리듬 여름학교](/2024/)
-- [전체 연도 보기](/)
+{% include other-years.html exclude="2025" %}
 
 ## 정보
 

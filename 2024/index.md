@@ -5,7 +5,7 @@ description: "22-26 July 2024, KAIST, Daejeon"
 --- 
 # 2024 조합론 및 알고리듬 여름학교
 
-[English](/2024/en/)
+<p class="page-lang"><a href="/2024/en/">English</a></p>
 
 ![2024 Photo](/assets/2024.jpg)
 
@@ -37,6 +37,8 @@ description: "22-26 July 2024, KAIST, Daejeon"
 - [안정호](https://www.junghoahn.com) (고등과학원 계산과학부)
 - [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹 / KAIST 수리과학과)
 - [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
+
+{% include other-years.html exclude="2024" %}
 
 {% include logo.html %}
 

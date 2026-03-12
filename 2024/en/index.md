@@ -5,7 +5,7 @@ description: "22-26 July 2024, KAIST, Daejeon"
 --- 
 ## 2024 Summer School on Combinatorics and Algorithms
 
-[Korean](/2024/)
+<p class="page-lang"><a href="/2024/">Korean</a></p>
 
 ![2024 Photo](/assets/2024.jpg)
 
@@ -38,6 +38,8 @@ Registration
 - [Jungho Ahn](https://www.junghoahn.com) (KIAS School of Computational Sciences)
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
+
+{% include other-years.html exclude="2024" lang="en" %}
 
 {% include logo.html %}
 

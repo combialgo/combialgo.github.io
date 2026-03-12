@@ -1,0 +1,27 @@
+{% assign lang = include.lang | default: "ko" %}
+{% if lang == "en" %}
+  {% assign yr_suffix = "en/" %}
+  {% assign all_href  = "/en/" %}
+  {% assign all_label = "All years" %}
+  {% assign heading   = "Other Years" %}
+  {% assign lbl_2026  = "2026 — Upcoming" %}
+  {% assign lbl_2025  = "2025 — POSTECH" %}
+  {% assign lbl_2024  = "2024 — KAIST, Daejeon" %}
+{% else %}
+  {% assign yr_suffix = "" %}
+  {% assign all_href  = "/" %}
+  {% assign all_label = "전체 연도 보기" %}
+  {% assign heading   = "다른 연도" %}
+  {% assign lbl_2026  = "2026 — 예정" %}
+  {% assign lbl_2025  = "2025 — POSTECH" %}
+  {% assign lbl_2024  = "2024 — KAIST, Daejeon" %}
+{% endif %}
+
+<h2>{{ heading }}</h2>
+
+<div class="year-nav">
+  {% unless include.exclude == "2026" %}<a href="/2026/{{ yr_suffix }}" class="year-nav__link">{{ lbl_2026 }}</a>{% endunless %}
+  {% unless include.exclude == "2025" %}<a href="/2025/{{ yr_suffix }}" class="year-nav__link">{{ lbl_2025 }}</a>{% endunless %}
+  {% unless include.exclude == "2024" %}<a href="/2024/{{ yr_suffix }}" class="year-nav__link">{{ lbl_2024 }}</a>{% endunless %}
+  <a href="{{ all_href }}" class="year-nav__link year-nav__link--all">{{ all_label }}</a>
+</div>

@@ -5,7 +5,7 @@ description: "14-18 July 2025, POSTECH"
 
 ## 2025 Summer School on Combinatorics and Algorithms
 
-[Korean](/2025/)
+<p class="page-lang"><a href="/2025/">Korean</a></p>
 
 ![Group Photo 2025](/assets/2025combialgo.jpg)
 
@@ -36,11 +36,7 @@ Registration
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
 
-## Other Years
-
-- [2026 Summer School on Combinatorics and Algorithms](/2026/en/)
-- [2024 Summer School on Combinatorics and Algorithms](/2024/en/)
-- [All years](/en/)
+{% include other-years.html exclude="2025" lang="en" %}
 
 ## Local Information
 
