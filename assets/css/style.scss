@@ -347,16 +347,18 @@ $rcb: rgba(180,90,30,.35);
     margin: 0 0 1rem;
 }
 
-.year-card__meta dt {
+.main-content .year-card__meta dt {
     color: #8a99aa;
     font-size: 0.76rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.06em;
     padding-top: 0.15rem;
+    margin-top: 0;
+    align-self: start;
 }
 
-.year-card__meta dd {
+.main-content .year-card__meta dd {
     margin: 0;
     font-weight: 600;
     font-size: 0.93rem;
