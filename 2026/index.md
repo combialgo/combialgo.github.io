@@ -12,7 +12,7 @@ description: "10-14 August 2026, location TBA"
   </div>
   <div class="event-info__item">
     <span class="event-info__label">장소</span>
-    추후 공지
+    KAIST, Daejeon, Korea
   </div>
 </div>
 
@@ -26,6 +26,7 @@ description: "10-14 August 2026, location TBA"
     <div class="speaker-card__info">
       <h3>Magnus Wahlström</h3>
       <p>Royal Holloway, University of London</p>
+      <p><strong>Matroids, delta-matroids, and applications</strong></p>
     </div>
   </div>
   <div class="speaker-card">
@@ -33,6 +34,7 @@ description: "10-14 August 2026, location TBA"
     <div class="speaker-card__info">
       <h3>Daniel Dadush</h3>
       <p>CWI, Amsterdam</p>
+      <p><strong>Algorithms &amp; Geometry of Linear Programming</strong></p>
     </div>
   </div>
 </div>

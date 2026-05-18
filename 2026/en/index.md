@@ -12,8 +12,7 @@ description: "10-14 August 2026, location TBA"
   </div>
   <div class="event-info__item">
     <span class="event-info__label">Location</span>
-    To be announced
-  </div>
+KAIST, Daejeon, Korea  </div>
 </div>
 
 The Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. This page will be updated with the full program, registration, and venue details as they become available.
@@ -26,6 +25,7 @@ The Summer School on Combinatorics and Algorithms is a venue for students and ea
     <div class="speaker-card__info">
       <h3>Magnus Wahlström</h3>
       <p>Royal Holloway, University of London</p>
+      <p><strong>Matroids, delta-matroids, and applications</strong></p>
     </div>
   </div>
   <div class="speaker-card">
@@ -33,6 +33,7 @@ The Summer School on Combinatorics and Algorithms is a venue for students and ea
     <div class="speaker-card__info">
       <h3>Daniel Dadush</h3>
       <p>CWI, Amsterdam</p>
+      <p><strong>Algorithms &amp; Geometry of Linear Programming</strong></p>
     </div>
   </div>
 </div>
