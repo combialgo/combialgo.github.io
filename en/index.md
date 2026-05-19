@@ -16,14 +16,14 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
     <article class="year-card year-card--featured">
       <p class="year-card__badge">Upcoming</p>
       <h2>2026</h2>
-      <p class="year-card__subtitle">TBA</p>
+      <p class="year-card__subtitle">KAIST, Daejeon</p>
       <dl class="year-card__meta">
         <dt>Date</dt>
         <dd>August 10-14, 2026</dd>
         <dt>Speakers</dt>
         <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
       </dl>
-      <p>The 2026 page currently contains confirmed facts only. Program, registration, and venue details will be added later.</p>
+      <p>Registration is currently open for the 2026 Summer School on Combinatorics and Algorithms.</p>
       <p><a class="year-card__link" href="/2026/en/">Open 2026 page</a></p>
     </article>
   </div>
@@ -32,7 +32,7 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
     <article class="year-card">
       <p class="year-card__badge year-card__badge--past">Archive</p>
       <h2>2025</h2>
-      <p class="year-card__subtitle">POSTECH</p>
+      <p class="year-card__subtitle">POSTECH, Pohang</p>
       <dl class="year-card__meta">
         <dt>Date</dt>
         <dd>14-18 July 2025</dd>

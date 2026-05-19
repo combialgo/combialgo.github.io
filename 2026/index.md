@@ -1,6 +1,6 @@
 ---
 title: 2026 Summer School on Combinatorics and Algorithms
-description: "10-14 August 2026, location TBA"
+description: "10-14 August 2026, KAIST, Daejeon, Korea"
 ---
 
 <p class="page-lang"><a href="/2026/en/">English</a></p>
@@ -22,34 +22,32 @@ description: "10-14 August 2026, location TBA"
 
 <div class="speaker-cards">
   <div class="speaker-card">
-    <div class="speaker-card__avatar">MW</div>
-    <div class="speaker-card__info">
-      <h3>Magnus Wahlström</h3>
-      <p>Royal Holloway, University of London</p>
-      <p><strong>Matroids, delta-matroids, and applications</strong></p>
-    </div>
-  </div>
-  <div class="speaker-card">
     <div class="speaker-card__avatar">DD</div>
     <div class="speaker-card__info">
       <h3>Daniel Dadush</h3>
       <p>CWI, Amsterdam</p>
-      <p><strong>Algorithms &amp; Geometry of Linear Programming</strong></p>
+    </div>
+  </div>
+  <div class="speaker-card">
+    <div class="speaker-card__avatar">MW</div>
+    <div class="speaker-card__info">
+      <h3>Magnus Wahlström</h3>
+      <p>Royal Holloway, University of London</p>
     </div>
   </div>
 </div>
 
 ## 프로그램
-
-<div class="tba-block">추후 공지</div>
+{% include program2026.md %}
 
 ## 일정
-
-<div class="tba-block">추후 공지</div>
+{% include schedule2026.md %}
 
 ## 등록
 
-<div class="tba-block">추후 공지</div>
+- 등록 홈페이지 [https://indico.ibs.re.kr/e/combialgo2026](https://indico.ibs.re.kr/e/combialgo2026): 등록 마감 5월 31일.
+- 숙박 지원: 숙박 지원이 필요한 분들 중 선착순으로 2인 1실 혹은 3인 1실로 카이스트 기숙사를 제공할 수 있습니다. 필요하신 경우 등록하실때 신청바랍니다.
+- 학생 (학부생/대학원생) 참가 지원자들의 경우 지도교수의 동의를 받아 등록해주시기 바랍니다.
 
 ## 정보
 

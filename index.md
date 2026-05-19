@@ -16,14 +16,14 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
     <article class="year-card year-card--featured">
       <p class="year-card__badge">Upcoming</p>
       <h2>2026</h2>
-      <p class="year-card__subtitle">추후 공지</p>
+      <p class="year-card__subtitle">KAIST, Daejeon</p>
       <dl class="year-card__meta">
         <dt>날짜</dt>
         <dd>2026년 8월 10-14일</dd>
         <dt>연사</dt>
         <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
       </dl>
-      <p>현재 확정된 정보만 먼저 공개되어 있습니다. 프로그램, 등록, 장소 정보는 추후 업데이트됩니다.</p>
+      <p>KAIST에서 열릴 2026 조합론 및 알고리듬 여름학교 등록이 진행중입니다.</p>
       <p><a class="year-card__link" href="/2026/">2026 페이지 보기</a></p>
     </article>
   </div>
@@ -32,7 +32,7 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
     <article class="year-card">
       <p class="year-card__badge year-card__badge--past">Archive</p>
       <h2>2025</h2>
-      <p class="year-card__subtitle">POSTECH</p>
+      <p class="year-card__subtitle">POSTECH, Pohang</p>
       <dl class="year-card__meta">
         <dt>날짜</dt>
         <dd>2025년 7월 14-18일</dd>
