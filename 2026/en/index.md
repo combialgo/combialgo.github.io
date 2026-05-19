@@ -15,7 +15,7 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
 KAIST, Daejeon, Korea  </div>
 </div>
 
-The Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. This page will be updated with the full program, registration, and venue details as they become available.
+The 2026 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. It will be a great opportunity for young and aspiring researchers to study topics which are important but not covered during the lectures in the university classes. This summer, two lecture series, combinatorial optimization and grid minor theorem, will be given by two leading experts on the subjects. There will be exercise sessions where you form a team and solve challenging questions related to the lecture subjects.
 
 ## Speakers
 
