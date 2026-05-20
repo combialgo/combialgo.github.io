@@ -48,10 +48,17 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
 - 숙박 지원: 숙박 지원이 필요한 분들 중 선착순으로 2인 1실 혹은 3인 1실로 카이스트 기숙사를 제공할 수 있습니다. 필요하신 경우 등록하실때 신청바랍니다.
 - 학생 (학부생/대학원생) 참가 지원자들의 경우 지도교수의 동의를 받아 등록해주시기 바랍니다.
 
+## 조직위원
+
+- [김은정](https://www.lamsade.dauphine.fr/~kim/) (KAIST 전산학부 / IBS 이산수학그룹)
+- [안정호](https://www.junghoahn.com) (인하대학교 컴퓨터공학과)
+- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
+- [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
+
 ## 정보
 
 <div class="tba-block">추후 공지</div>
 
 {% include other-years.html exclude="2026" %}
 
-{% include logo.html %}
+{% include logo.html inha=true %}

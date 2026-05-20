@@ -49,10 +49,17 @@ The 2026 Summer School on Combinatorics and Algorithms is a venue for students a
 - Accommodation support: We can provide KAIST dormitory accommodations on a first-come, first-served basis for those who need lodging support, either for 2 persons per room or 3 persons per room. If you need, you can apply for accommodation support by selecting the corresponding options during the registration.
 - Undergraduate and graduate students need to get approval from their advisors before registering.
 
+## Organizers
+
+- [Jungho Ahn](https://www.junghoahn.com) (Department of Computer Engineering, Inha University)
+- [Eunjung Kim](https://ssimplexity.github.io) (KAIST School of Computing / IBS Discrete Mathematics Group)
+- [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
+- [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group)
+
 ## Local Information
 
 <div class="tba-block">To be announced</div>
 
 {% include other-years.html exclude="2026" lang="en" %}
 
-{% include logo.html %}
+{% include logo.html inha=true %}

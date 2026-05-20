@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(osascript -e 'tell application \"Google Chrome\"\n  activate\n  set URL of active tab of first window to \"http://localhost:4000/\"\nend tell' && sleep 2 && screencapture /tmp/landing_page2.png)",
+      "Bash(osascript -e 'tell application \"Finder\" to close every window' 2>/dev/null; osascript -e 'tell application \"Google Chrome\" to activate'; sleep 2; screencapture /tmp/landing_page3.png)",
+      "Bash(curl -s \"http://localhost:4000/assets/css/style.css\" | grep -i \"dl\\\\|dt\\\\b\\\\|dd\\\\b\" | head -20)"
+    ]
+  }
+}

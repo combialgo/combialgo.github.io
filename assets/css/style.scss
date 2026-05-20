@@ -31,6 +31,7 @@ div#logo img:hover { opacity: 1; }
 div#logo img#dimag  { width: 200px; }
 div#logo img#postech { width: 160px; }
 div#logo img#kaist   { width: 140px; }
+div#logo img#inha    { width: 150px; }
 
 // ─── Speaker photos ───────────────────────────────────────────────────────────
 img.speaker {
@@ -130,6 +131,135 @@ $rcb: rgba(180,90,30,.35);
 .timetable .xl78 { background: $rc; border-top: 1px solid $rcb !important; border-right: 1px solid $rcb !important; border-bottom: none !important; border-left: 1px solid $rcb !important; }
 .timetable .xl79 { background: $rc; border-top: none !important; border-right: 1px solid $rcb !important; border-bottom: none !important; border-left: 1px solid $rcb !important; }
 .timetable .xl80 { background: $rc; border-top: none !important; border-right: 1px solid $rcb !important; border-bottom: 1px solid $rcb !important; border-left: 1px solid $rcb !important; }
+
+// ─── 2026 responsive schedule ────────────────────────────────────────────────
+.schedule-notes {
+    margin: 0.25rem 0 1.25rem;
+    padding: 0.95rem 1.2rem 0.95rem 2.35rem;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #f8fafd 0%, #fff8fb 100%);
+    border: 1px solid rgba(0, 65, 145, 0.12);
+    color: #334760;
+    box-shadow: 0 2px 12px rgba(0, 33, 71, 0.05);
+}
+
+.schedule-notes li {
+    margin: 0.18rem 0;
+}
+
+.schedule-table-wrap {
+    width: 100%;
+    overflow-x: auto;
+    margin: 0.75rem 0 1.75rem;
+    padding-bottom: 0.25rem;
+}
+
+.main-content table.schedule-desktop {
+    width: 100%;
+    min-width: 780px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.schedule-time-col {
+    width: 4.7rem;
+}
+
+.schedule-day-col {
+    width: 20%;
+}
+
+.main-content table.schedule-desktop th {
+    padding: 0.45rem 0.5rem;
+    color: #233854;
+    font-size: 0.84rem;
+    font-weight: 800;
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 65, 145, 0.16);
+}
+
+.main-content table.schedule-desktop td {
+    height: 1.55rem;
+}
+
+.main-content table.schedule-desktop .schedule-event {
+    padding: 0.42rem 0.5rem;
+    border: 1px solid rgba(0, 65, 145, 0.13) !important;
+    border-radius: 0;
+    color: #24364d;
+    font-weight: 700;
+    line-height: 1.25;
+    text-align: center;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+.schedule-event span {
+    color: rgba(36, 54, 77, 0.68);
+    font-size: 0.78em;
+    font-weight: 600;
+}
+
+.schedule-event--a { background: $la; border-color: $lab !important; }
+.schedule-event--b { background: $lb; border-color: $lbb !important; }
+.schedule-event--recitation { background: $rc; border-color: $rcb !important; }
+.schedule-event--discussion { background: #f0bcea; border-color: rgba(160, 70, 140, 0.3) !important; }
+.schedule-event--break { background: #eef3ff; border-color: rgba(0, 65, 145, 0.22) !important; }
+.schedule-event--welcome { background: #fff4f8; border-color: rgba(200, 1, 80, 0.24) !important; }
+
+.schedule-mobile {
+    display: none;
+}
+
+.schedule-day {
+    margin: 0 0 1.05rem;
+    padding: 1rem;
+    border-radius: 16px;
+    background: #fff;
+    border: 1px solid rgba(0, 65, 145, 0.11);
+    box-shadow: 0 2px 14px rgba(0, 33, 71, 0.07);
+}
+
+.main-content .schedule-day h3 {
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid #eef1f5;
+    color: #1a2640;
+    font-size: 1.05rem;
+}
+
+.schedule-card {
+    display: grid;
+    grid-template-columns: 6.2rem 1fr;
+    gap: 0.7rem;
+    align-items: start;
+    margin: 0.45rem 0;
+    padding: 0.62rem 0.72rem;
+    border-radius: 11px;
+    border: 1px solid rgba(0, 65, 145, 0.12);
+    color: #24364d;
+}
+
+.schedule-card time {
+    color: #62738a;
+    font-size: 0.78rem;
+    font-weight: 800;
+    line-height: 1.35;
+    white-space: nowrap;
+}
+
+.schedule-card span {
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.schedule-card--a { background: $la; border-color: $lab; }
+.schedule-card--b { background: $lb; border-color: $lbb; }
+.schedule-card--recitation { background: $rc; border-color: $rcb; }
+.schedule-card--discussion { background: #f0bcea; border-color: rgba(160, 70, 140, 0.3); }
+.schedule-card--break { background: #eef3ff; border-color: rgba(0, 65, 145, 0.22); }
+.schedule-card--welcome { background: #fff4f8; border-color: rgba(200, 1, 80, 0.24); }
 
 // ─── Page header refinement ───────────────────────────────────────────────────
 .page-header {
@@ -567,4 +697,13 @@ $rcb: rgba(180,90,30,.35);
     .main-content .year-landing__hero h1 { font-size: 1.5rem; }
     .year-card                  { padding: 1.4rem 1.5rem; border-radius: 14px; }
     .main-content .year-card h2 { font-size: 2.4rem; }
+    .schedule-notes             { padding: 0.85rem 1rem 0.85rem 2rem; font-size: 0.9rem; }
+    .schedule-table-wrap        { display: none; }
+    .schedule-mobile            { display: block; margin: 0.75rem 0 1.75rem; }
+}
+
+@media screen and (max-width: 390px) {
+    .schedule-day               { padding: 0.85rem; }
+    .schedule-card              { grid-template-columns: 1fr; gap: 0.2rem; }
+    .schedule-card time         { white-space: normal; }
 }
