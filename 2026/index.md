@@ -16,19 +16,20 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
   </div>
 </div>
 
-2026 조합론 및 알고리듬 여름학교는 이론 컴퓨터 과학과 이산수학 분야의 선별된 주제를 학생들과 초기 경력 연구자들이 배우는 장소입니다. 이는 대학 강의에서 다루지 않지만 중요한 주제를 공부할 수 있는 좋은 기회가 될 것입니다. 
+<p class="year-page-intro">2026 조합론 및 알고리듬 여름학교는 이론 컴퓨터 과학과 이산수학 분야의 선별된 주제를 학생들과 초기 경력 연구자들이 배우는 장소입니다. 이는 대학 강의에서 다루지 않지만 중요한 주제를 공부할 수 있는 좋은 기회가 될 것입니다.</p>
+
 ## 연사
 
-<div class="speaker-cards">
-  <div class="speaker-card">
-    <div class="speaker-card__avatar">DD</div>
+<div class="speaker-cards speaker-cards--photo">
+  <div class="speaker-card speaker-card--photo">
+    <img src="/assets/dadush.jpg" alt="Daniel Dadush" class="speaker-card__photo" />
     <div class="speaker-card__info">
       <h3>Daniel Dadush</h3>
       <p>CWI, Amsterdam</p>
     </div>
   </div>
-  <div class="speaker-card">
-    <div class="speaker-card__avatar">MW</div>
+  <div class="speaker-card speaker-card--photo">
+    <img src="/assets/wahlstrom.jpg" alt="Magnus Wahlström" class="speaker-card__photo" />
     <div class="speaker-card__info">
       <h3>Magnus Wahlström</h3>
       <p>Royal Holloway, University of London</p>

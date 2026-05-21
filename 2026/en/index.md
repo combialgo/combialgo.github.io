@@ -15,21 +15,21 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
 Creative Learning Building (E11), KAIST, Daejeon, Korea  </div>
 </div>
 
-The 2026 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. It will be a great opportunity for young and aspiring researchers to study topics which are important but not covered during the lectures in the university classes. 
+<p class="year-page-intro">The 2026 Summer School on Combinatorics and Algorithms is a venue for students and early-career researchers to learn selected topics in theoretical computer science and discrete mathematics. It will be a great opportunity for young and aspiring researchers to study topics which are important but not covered during the lectures in the university classes.</p>
 
 
 ## Speakers
 
-<div class="speaker-cards">
-  <div class="speaker-card">
-    <div class="speaker-card__avatar">DD</div>
+<div class="speaker-cards speaker-cards--photo">
+  <div class="speaker-card speaker-card--photo">
+    <img src="/assets/dadush.jpg" alt="Daniel Dadush" class="speaker-card__photo" />
     <div class="speaker-card__info">
       <h3>Daniel Dadush</h3>
       <p>CWI, Amsterdam</p>
     </div>
   </div>
-  <div class="speaker-card">
-    <div class="speaker-card__avatar">MW</div>
+  <div class="speaker-card speaker-card--photo">
+    <img src="/assets/wahlstrom.jpg" alt="Magnus Wahlström" class="speaker-card__photo" />
     <div class="speaker-card__info">
       <h3>Magnus Wahlström</h3>
       <p>Royal Holloway, University of London</p>

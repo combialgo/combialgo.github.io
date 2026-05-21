@@ -583,6 +583,18 @@ $rcb: rgba(180,90,30,.35);
     margin-bottom: 0.15rem;
 }
 
+.year-page-intro {
+    margin: 0 0 2rem;
+    padding: 1.15rem 1.35rem;
+    border-radius: 14px;
+    background: #ffffff;
+    border: 1px solid rgba(0, 65, 145, 0.11);
+    box-shadow: 0 2px 12px rgba(0, 33, 71, 0.06);
+    color: #344962;
+    font-size: 1.02rem;
+    line-height: 1.75;
+}
+
 // ─── Speaker cards (no photo yet) ────────────────────────────────────────────
 .speaker-cards {
     display: grid;
@@ -638,6 +650,165 @@ $rcb: rgba(180,90,30,.35);
     font-size: 0.84rem;
     color: #7a8a9e;
     line-height: 1.4;
+}
+
+.speaker-cards--photo {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.1rem;
+}
+
+.speaker-card--photo {
+    align-items: stretch;
+    padding: 0;
+    overflow: hidden;
+}
+
+.speaker-card__photo {
+    width: 112px;
+    min-height: 118px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.speaker-card--photo .speaker-card__info {
+    align-self: center;
+    padding: 1.05rem 1.15rem 1.05rem 0;
+}
+
+.speaker-card--photo .speaker-card__info p {
+    max-width: 15rem;
+}
+
+// ─── Program speaker cards ───────────────────────────────────────────────────
+.program-speaker {
+    display: grid;
+    grid-template-columns: 190px minmax(0, 1fr);
+    gap: 1.35rem;
+    align-items: start;
+    margin: 1rem 0 1.6rem;
+    padding: 1.35rem;
+    border-radius: 16px;
+    background: #ffffff;
+    border: 1px solid rgba(0, 65, 145, 0.11);
+    box-shadow: 0 3px 18px rgba(0, 33, 71, 0.08);
+}
+
+.program-speaker__photo-link {
+    display: block;
+    line-height: 0;
+}
+
+.program-speaker__photo {
+    display: block;
+    width: 190px;
+    aspect-ratio: 1 / 1;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 5px 18px rgba(0, 33, 71, 0.13);
+}
+
+.program-speaker__body {
+    min-width: 0;
+    color: #35475e;
+}
+
+.main-content .program-speaker h3 {
+    margin: 0 0 0.35rem;
+    padding-bottom: 0;
+    border-bottom: none;
+    color: #004191;
+    font-size: 1.35rem;
+    line-height: 1.25;
+}
+
+.main-content .program-speaker h3 a {
+    color: #004191;
+    text-decoration: none;
+}
+
+.main-content .program-speaker h3 a:hover {
+    text-decoration: underline;
+}
+
+.main-content .program-speaker h4 {
+    margin: 0 0 0.9rem;
+    color: #c80150;
+    font-size: 1.02rem;
+    line-height: 1.4;
+}
+
+.program-speaker p {
+    margin: 0 0 0.95rem;
+    line-height: 1.72;
+}
+
+.program-speaker p:last-child {
+    margin-bottom: 0;
+}
+
+.program-speaker ul {
+    margin-top: -0.25rem;
+    margin-bottom: 1rem;
+    padding-left: 1.2rem;
+}
+
+.program-speaker li {
+    margin: 0.28rem 0;
+    line-height: 1.55;
+}
+
+.program-abstract-preview {
+    margin-top: 0.85rem;
+}
+
+.program-abstract {
+    margin-top: 0.2rem;
+}
+
+.program-abstract summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-bottom: 0.7rem;
+    padding: 0.34rem 0.78rem;
+    border-radius: 999px;
+    background: rgba(0, 65, 145, 0.08);
+    border: 1px solid rgba(0, 65, 145, 0.18);
+    color: #004191;
+    cursor: pointer;
+    font-size: 0.82rem;
+    font-weight: 800;
+    line-height: 1.3;
+    list-style: none;
+    user-select: none;
+}
+
+.program-abstract summary::-webkit-details-marker {
+    display: none;
+}
+
+.program-abstract summary::after {
+    content: '+';
+    color: #004191;
+    font-size: 0.9rem;
+    font-weight: 900;
+}
+
+.program-abstract[open] summary::after {
+    content: '-';
+}
+
+.program-abstract__less {
+    display: none;
+}
+
+.program-abstract[open] .program-abstract__more {
+    display: none;
+}
+
+.program-abstract[open] .program-abstract__less {
+    display: inline;
 }
 
 // ─── TBA placeholder block ───────────────────────────────────────────────────
@@ -697,6 +868,12 @@ $rcb: rgba(180,90,30,.35);
     .main-content .year-landing__hero h1 { font-size: 1.5rem; }
     .year-card                  { padding: 1.4rem 1.5rem; border-radius: 14px; }
     .main-content .year-card h2 { font-size: 2.4rem; }
+    .year-page-intro            { padding: 1rem 1.1rem; font-size: 0.96rem; }
+    .speaker-card__photo        { width: 96px; min-height: 108px; }
+    .speaker-card--photo .speaker-card__info { padding-right: 0.95rem; }
+    .program-speaker            { grid-template-columns: 1fr; padding: 1.05rem; gap: 1rem; }
+    .program-speaker__photo     { width: 100%; max-height: 260px; aspect-ratio: 16 / 10; }
+    .main-content .program-speaker h3 { font-size: 1.18rem; }
     .schedule-notes             { padding: 0.85rem 1rem 0.85rem 2rem; font-size: 0.9rem; }
     .schedule-table-wrap        { display: none; }
     .schedule-mobile            { display: block; margin: 0.75rem 0 1.75rem; }
