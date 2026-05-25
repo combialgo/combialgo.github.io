@@ -36,10 +36,9 @@ Registration
 
 - [Eunjung Kim](https://ssimplexity.github.io) (KAIST School of Computing)
 - [Jungho Ahn](https://www.junghoahn.com) (KIAS School of Computational Sciences)
-- [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
+- [Sang-il Oum](https://sangil.dimag.kr/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
 
 {% include other-years.html exclude="2024" lang="en" %}
 
 {% include logo.html %}
-

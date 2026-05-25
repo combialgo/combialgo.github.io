@@ -33,7 +33,7 @@ Registration
 ## Organizers
 
 - [Eunjung Kim](https://ssimplexity.github.io) (KAIST School of Computing)
-- [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group)
+- [Sang-il Oum](https://sangil.dimag.kr/) (IBS Discrete Mathematics Group)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
 
 {% include other-years.html exclude="2025" lang="en" %}

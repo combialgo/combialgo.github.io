@@ -33,13 +33,11 @@ description: "22-26 July 2024, KAIST, Daejeon"
 
 ## 조직위원
 
-- [김은정](https://www.lamsade.dauphine.fr/~kim/) (KAIST 전산학부)
+- [김은정](https://ssimplexity.github.io) (KAIST 전산학부)
 - [안정호](https://www.junghoahn.com) (고등과학원 계산과학부)
-- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹 / KAIST 수리과학과)
+- [엄상일](https://sangil.dimag.kr/) (IBS 이산수학그룹 / KAIST 수리과학과)
 - [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
 
 {% include other-years.html exclude="2024" %}
 
 {% include logo.html %}
-
-

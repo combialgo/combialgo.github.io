@@ -54,7 +54,7 @@ Creative Learning Building (E11), KAIST, Daejeon, Korea  </div>
 - [Jungho Ahn](https://www.junghoahn.com) (Department of Computer Engineering, Inha University)
 - [Eunjung Kim](https://ssimplexity.github.io) (KAIST School of Computing / IBS Discrete Mathematics Group)
 - [Eunjin Oh](https://sites.google.com/view/eunjinoh/) (POSTECH CSE)
-- [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group)
+- [Sang-il Oum](https://sangil.dimag.kr/) (IBS Discrete Mathematics Group)
 
 ## Local Information
 

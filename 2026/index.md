@@ -51,9 +51,9 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
 
 ## 조직위원
 
-- [김은정](https://www.lamsade.dauphine.fr/~kim/) (KAIST 전산학부 / IBS 이산수학그룹)
+- [김은정](https://ssimplexity.github.io) (KAIST 전산학부 / IBS 이산수학그룹)
 - [안정호](https://www.junghoahn.com) (인하대학교 컴퓨터공학과)
-- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
+- [엄상일](https://sangil.dimag.kr/) (IBS 이산수학그룹)
 - [오은진](https://sites.google.com/view/eunjinoh/) (포스텍 컴퓨터공학과)
 
 ## 정보
