@@ -45,9 +45,8 @@ Creative Learning Building (E11), KAIST, Daejeon, Korea  </div>
 
 ## Registration
 
-- Register at [https://indico.ibs.re.kr/e/combialgo2026](https://indico.ibs.re.kr/e/combialgo2026): Deadline May 31.
-- Accommodation support: We can provide KAIST dormitory accommodations on a first-come, first-served basis for those who need lodging support, either for 2 persons per room or 3 persons per room. If you need, you can apply for accommodation support by selecting the corresponding options during the registration.
-- Undergraduate and graduate students need to get approval from their advisors before registering.
+- Registration is closed. Registration information remains available on the [Indico page](https://indico.ibs.re.kr/e/combialgo2026).
+- Accommodation support applications are also closed. <del>Accommodation support: We can provide KAIST dormitory accommodations on a first-come, first-served basis for those who need lodging support, either for 2 persons per room or 3 persons per room. If you need, you can apply for accommodation support by selecting the corresponding options during the registration.</del>
 
 ## Organizers
 

@@ -23,7 +23,7 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
         <dt>연사</dt>
         <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
       </dl>
-      <p>KAIST에서 열릴 2026 조합론 및 알고리듬 여름학교 등록이 진행중입니다.</p>
+      <p>KAIST에서 열릴 2026 조합론 및 알고리듬 여름학교 등록이 마감되었습니다.</p>
       <p><a class="year-card__link" href="/2026/">2026 페이지 보기</a></p>
     </article>
   </div>

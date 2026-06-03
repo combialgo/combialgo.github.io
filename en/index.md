@@ -23,7 +23,7 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
         <dt>Speakers</dt>
         <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
       </dl>
-      <p>Registration is currently open for the 2026 Summer School on Combinatorics and Algorithms.</p>
+      <p>Registration is now closed for the 2026 Summer School on Combinatorics and Algorithms.</p>
       <p><a class="year-card__link" href="/2026/en/">Open 2026 page</a></p>
     </article>
   </div>
