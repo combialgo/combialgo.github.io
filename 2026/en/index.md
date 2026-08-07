@@ -57,6 +57,21 @@ Creative Learning Building (E11), KAIST, Daejeon, Korea  </div>
 
 ## Local Information
 
+### Venue and registration
+
+- **Dates**: Monday, August 10 – Friday, August 14, 2026
+- **Venue**: Creative Learning Building (E11), KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon
+- **Registration desk**: Near Room 311, E11, Monday, 1:00–2:00 PM
+- The first session will begin at 2:00 PM in Room 311. Please be seated by 1:50 PM if possible.
+
+### Classrooms and problem-solving rooms
+
+- **Main lecture room on Monday and Friday**: Room 311
+- **Main lecture room from Tuesday through Thursday**: Room 309
+- **Rooms available for problem-solving and small-group discussions**: Rooms 301, 302, 303, 304, and 309
+
+### Getting to KAIST
+
 <div class="tba-block">To be announced</div>
 
 {% include other-years.html exclude="2026" lang="en" %}
