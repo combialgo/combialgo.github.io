@@ -1,7 +1,7 @@
 <ul class="schedule-notes">
   <li>Start: Monday, August 10, 2026, 2:00 PM</li>
   <li>Check-in to the Dorm: Monday, 5:30 PM</li>
-  <li>Banquet: Thursday evening</li>
+  <li>Banquet: Thursday evening, August 13, at the Auditorium (E15)</li>
   <li>End: Friday, August 14, 2026, 5:00 PM</li>
 </ul>
 
@@ -209,7 +209,7 @@
       <tr>
         <td class="xl65">18:00</td>
         <td colspan="3"></td>
-        <td class="schedule-event schedule-event--break" rowspan="8">Banquet</td>
+        <td class="schedule-event schedule-event--break" rowspan="12">Banquet</td>
         <td></td>
         <td class="xl68">18:00</td>
       </tr>
@@ -257,8 +257,32 @@
       </tr>
       <tr>
         <td class="xl65">20:00</td>
-        <td colspan="5"></td>
+        <td colspan="3"></td>
+        <td></td>
         <td class="xl68">20:00</td>
+      </tr>
+      <tr>
+        <td class="xl65">20:15</td>
+        <td colspan="3"></td>
+        <td></td>
+        <td class="xl68">20:15</td>
+      </tr>
+      <tr>
+        <td class="xl65">20:30</td>
+        <td colspan="3"></td>
+        <td></td>
+        <td class="xl68">20:30</td>
+      </tr>
+      <tr>
+        <td class="xl65">20:45</td>
+        <td colspan="3"></td>
+        <td></td>
+        <td class="xl68">20:45</td>
+      </tr>
+      <tr>
+        <td class="xl65">21:00</td>
+        <td colspan="5"></td>
+        <td class="xl68">21:00</td>
       </tr>
     </tbody>
   </table>
@@ -304,7 +328,7 @@
     <div class="schedule-card schedule-card--b"><time>14:45-15:45</time><span>Lecture B7</span></div>
     <div class="schedule-card schedule-card--discussion"><time>16:00-17:00</time><span>Group Discussion</span></div>
     <div class="schedule-card schedule-card--recitation"><time>17:00-18:00</time><span>Recitation</span></div>
-    <div class="schedule-card schedule-card--break"><time>18:00-20:00</time><span>Banquet</span></div>
+    <div class="schedule-card schedule-card--break"><time>18:00-21:00</time><span>Banquet</span></div>
   </section>
 
   <section class="schedule-day">

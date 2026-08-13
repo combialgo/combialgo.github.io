@@ -70,6 +70,11 @@ Creative Learning Building (E11), KAIST, Daejeon, Korea  </div>
 - **Main lecture room from Tuesday through Thursday**: Room 309
 - **Rooms available for problem-solving and small-group discussions**: Rooms 301, 302, 303, 304, and 309
 
+### Banquet
+
+- **Date and time**: Thursday, August 13, 6:00–9:00 PM
+- **Venue**: Auditorium (E15), KAIST
+
 ### Getting to KAIST
 
 <div class="tba-block">To be announced</div>
