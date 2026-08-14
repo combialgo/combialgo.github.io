@@ -3,7 +3,11 @@ title: 2026 Summer School on Combinatorics and Algorithms
 description: "10-14 August 2026, KAIST, Daejeon, Korea"
 ---
 
-<p class="page-lang"><a href="/2026/">Korean</a></p>
+<header class="year-hero">
+  <p class="year-hero__eyebrow">Summer School on Combinatorics and Algorithms</p>
+  <h1 class="year-hero__year">2026</h1>
+  <p class="year-hero__tagline">KAIST, Daejeon</p>
+</header>
 
 <div class="event-info">
   <div class="event-info__item">

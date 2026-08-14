@@ -3,9 +3,11 @@ title: 2025 Summer School on Combinatorics and Algorithms
 description: "14-18 July 2025, POSTECH"
 ---
 
-# 2025 조합론 및 알고리듬 여름학교
-
-<p class="page-lang"><a href="/2025/en/">English</a></p>
+<header class="year-hero">
+  <p class="year-hero__eyebrow">Summer School on Combinatorics and Algorithms</p>
+  <h1 class="year-hero__year">2025</h1>
+  <p class="year-hero__tagline">조합론 및 알고리듬 여름학교 · POSTECH, 포항</p>
+</header>
 
 ![Group Photo 2025](/assets/2025combialgo.jpg)
 

@@ -3,7 +3,11 @@ title: 2027 Summer School on Combinatorics and Algorithms
 description: "17-21 August 2027, Seoul, Korea"
 ---
 
-<p class="page-lang"><a href="/2027/en/">English</a></p>
+<header class="year-hero">
+  <p class="year-hero__eyebrow">Summer School on Combinatorics and Algorithms</p>
+  <h1 class="year-hero__year">2027</h1>
+  <p class="year-hero__tagline">조합론 및 알고리듬 여름학교 · 서울</p>
+</header>
 
 <div class="event-info">
   <div class="event-info__item">

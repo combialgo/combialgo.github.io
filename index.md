@@ -4,8 +4,6 @@ description: "Browse the 2024, 2025, 2026, and 2027 summer school pages."
 ---
 
 <div class="year-landing">
-  <p class="year-landing__lang"><a href="/en/">English</a></p>
-
   <div class="year-landing__hero">
     <p class="year-landing__eyebrow">Summer School Series</p>
     <h1>조합론 및 알고리듬 여름학교</h1>
