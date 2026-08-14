@@ -83,10 +83,6 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
 - **일시**: 8월 13일(목) 18:00–21:00
 - **장소**: KAIST 대강당(E15)
 
-### 오시는 길
-
-<div class="tba-block">추후 공지</div>
-
 {% include other-years.html exclude="2026" %}
 
 {% include logo.html inha=true %}

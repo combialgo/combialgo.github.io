@@ -83,10 +83,6 @@ Creative Learning Building (E11), KAIST, Daejeon, Korea  </div>
 - **Date and time**: Thursday, August 13, 6:00–9:00 PM
 - **Venue**: Auditorium (E15), KAIST
 
-### Getting to KAIST
-
-<div class="tba-block">To be announced</div>
-
 {% include other-years.html exclude="2026" lang="en" %}
 
 {% include logo.html inha=true %}
