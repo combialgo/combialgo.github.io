@@ -22,17 +22,17 @@ description: "17-21 August 2027, Seoul, Korea"
 
 <div class="speaker-cards speaker-cards--photo">
   <div class="speaker-card speaker-card--photo">
-    <img src="/assets/lokshtanov.jpg" alt="Daniel Lokshtanov" class="speaker-card__photo" />
-    <div class="speaker-card__info">
-      <h3>Daniel Lokshtanov</h3>
-      <p>University of California, Santa Barbara</p>
-    </div>
-  </div>
-  <div class="speaker-card speaker-card--photo">
     <img src="/assets/chudnovsky.jpg" alt="Maria Chudnovsky" class="speaker-card__photo" />
     <div class="speaker-card__info">
       <h3>Maria Chudnovsky</h3>
       <p>Princeton University</p>
+    </div>
+  </div>
+  <div class="speaker-card speaker-card--photo">
+    <img src="/assets/lokshtanov.jpg" alt="Daniel Lokshtanov" class="speaker-card__photo" />
+    <div class="speaker-card__info">
+      <h3>Daniel Lokshtanov</h3>
+      <p>University of California, Santa Barbara</p>
     </div>
   </div>
 </div>

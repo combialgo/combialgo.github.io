@@ -21,7 +21,7 @@ description: "Browse the 2024, 2025, 2026, and 2027 summer school pages."
         <dt>Date</dt>
         <dd>August 17-21, 2027</dd>
         <dt>Speakers</dt>
-        <dd>Daniel Lokshtanov (UC Santa Barbara), Maria Chudnovsky (Princeton University)</dd>
+        <dd>Maria Chudnovsky (Princeton University), Daniel Lokshtanov (UC Santa Barbara)</dd>
       </dl>
       <p>The dates and speakers for the 2027 Summer School on Combinatorics and Algorithms in Seoul are confirmed. The venue and registration details will be announced later.</p>
       <p><a class="year-card__link" href="/2027/en/">Open 2027 page</a></p>

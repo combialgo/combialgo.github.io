@@ -21,7 +21,7 @@ description: "Browse the 2024, 2025, 2026, and 2027 summer school pages."
         <dt>날짜</dt>
         <dd>2027년 8월 17-21일</dd>
         <dt>연사</dt>
-        <dd>Daniel Lokshtanov (UC Santa Barbara), Maria Chudnovsky (Princeton University)</dd>
+        <dd>Maria Chudnovsky (Princeton University), Daniel Lokshtanov (UC Santa Barbara)</dd>
       </dl>
       <p>서울에서 열릴 2027 조합론 및 알고리듬 여름학교의 날짜와 연사가 확정되었습니다. 세부 장소와 등록 안내는 추후 공지됩니다.</p>
       <p><a class="year-card__link" href="/2027/">2027 페이지 보기</a></p>
