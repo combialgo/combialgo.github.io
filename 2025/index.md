@@ -9,7 +9,9 @@ description: "14-18 July 2025, POSTECH"
   <p class="year-hero__tagline">조합론 및 알고리듬 여름학교 · POSTECH, 포항</p>
 </header>
 
-![Group Photo 2025](/assets/2025combialgo.jpg)
+<figure class="year-photo">
+  <img src="/assets/2025combialgo.jpg" alt="2025 조합론 및 알고리듬 여름학교 단체사진" />
+</figure>
 
 - 날짜: 2025년 7월 14-18일
 - 장소: POSTECH

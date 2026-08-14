@@ -9,7 +9,9 @@ description: "22-26 July 2024, KAIST, Daejeon"
   <p class="year-hero__tagline">조합론 및 알고리듬 여름학교 · KAIST, 대전</p>
 </header>
 
-![2024 Photo](/assets/2024.jpg)
+<figure class="year-photo">
+  <img src="/assets/2024.jpg" alt="2024 조합론 및 알고리듬 여름학교 강의 모습" />
+</figure>
 
 
 - 날짜: 2024년 7월 22-26일

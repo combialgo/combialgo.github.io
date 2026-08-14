@@ -9,7 +9,9 @@ description: "22-26 July 2024, KAIST, Daejeon"
   <p class="year-hero__tagline">KAIST, Daejeon</p>
 </header>
 
-![2024 Photo](/assets/2024.jpg)
+<figure class="year-photo">
+  <img src="/assets/2024.jpg" alt="A lecture at the 2024 Summer School on Combinatorics and Algorithms" />
+</figure>
 
 
 - Date: 22-26 July 2024.

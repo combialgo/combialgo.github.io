@@ -9,7 +9,9 @@ description: "14-18 July 2025, POSTECH"
   <p class="year-hero__tagline">POSTECH, Pohang</p>
 </header>
 
-![Group Photo 2025](/assets/2025combialgo.jpg)
+<figure class="year-photo">
+  <img src="/assets/2025combialgo.jpg" alt="Group photo of the 2025 Summer School on Combinatorics and Algorithms" />
+</figure>
 
 - Date: 14-18 July 2025.
 - Place: POSTECH.

@@ -9,6 +9,10 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
   <p class="year-hero__tagline">조합론 및 알고리듬 여름학교 · KAIST, 대전</p>
 </header>
 
+<figure class="year-photo">
+  <img src="/assets/2026combialgo.jpg" alt="2026 조합론 및 알고리듬 여름학교 단체사진" />
+</figure>
+
 <div class="event-info">
   <div class="event-info__item">
     <span class="event-info__label">날짜</span>

@@ -9,6 +9,10 @@ description: "10-14 August 2026, KAIST, Daejeon, Korea"
   <p class="year-hero__tagline">KAIST, Daejeon</p>
 </header>
 
+<figure class="year-photo">
+  <img src="/assets/2026combialgo.jpg" alt="Group photo of the 2026 Summer School on Combinatorics and Algorithms" />
+</figure>
+
 <div class="event-info">
   <div class="event-info__item">
     <span class="event-info__label">Date</span>
