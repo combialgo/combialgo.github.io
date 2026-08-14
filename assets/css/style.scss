@@ -117,10 +117,11 @@ img { max-width: 100%; height: auto; }
 .wordmark__name {
   font-family: var(--font-display);
   font-weight: 900;
-  font-stretch: 125%;
-  font-size: 1.28rem;
-  letter-spacing: -0.02em;
+  font-stretch: 118%;
+  font-size: 1.12rem;
+  letter-spacing: -0.015em;
   color: var(--ink);
+  white-space: nowrap;
 }
 
 // node dot on the wordmark — the smallest possible graph
@@ -142,6 +143,7 @@ img { max-width: 100%; height: auto; }
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink-faint);
+  white-space: nowrap;
 }
 
 .wordmark:hover .wordmark__name { color: var(--ultra); }
@@ -1097,6 +1099,8 @@ div#logo img#inha    { width: 150px; }
 
 @media screen and (max-width: 680px) {
   .site-header__inner { padding: 0.6rem 1rem; }
+  .wordmark__name { font-size: 0.98rem; }
+  .wordmark__sub  { font-size: 0.62rem; letter-spacing: 0.1em; }
   .main-content { padding: 1.25rem 1rem 2.5rem; }
 
   .year-cards--archive { grid-template-columns: 1fr; }
