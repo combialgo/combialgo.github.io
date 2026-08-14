@@ -1,6 +1,6 @@
 ---
 title: Summer School on Combinatorics and Algorithms
-description: "Browse the 2024, 2025, and 2026 summer school pages."
+description: "Browse the 2024, 2025, 2026, and 2027 summer school pages."
 ---
 
 <div class="year-landing">
@@ -15,20 +15,34 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
   <div class="year-cards year-cards--featured">
     <article class="year-card year-card--featured">
       <p class="year-card__badge">Upcoming</p>
+      <h2>2027</h2>
+      <p class="year-card__subtitle">Seoul</p>
+      <dl class="year-card__meta">
+        <dt>Date</dt>
+        <dd>August 17-21, 2027</dd>
+        <dt>Speakers</dt>
+        <dd>Daniel Lokshtanov (UC Santa Barbara), Maria Chudnovsky (Princeton University)</dd>
+      </dl>
+      <p>The dates and speakers for the 2027 Summer School on Combinatorics and Algorithms in Seoul are confirmed. The venue and registration details will be announced later.</p>
+      <p><a class="year-card__link" href="/2027/en/">Open 2027 page</a></p>
+    </article>
+  </div>
+
+  <div class="year-cards year-cards--archive">
+    <article class="year-card">
+      <p class="year-card__badge year-card__badge--past">Archive</p>
       <h2>2026</h2>
       <p class="year-card__subtitle">KAIST, Daejeon</p>
       <dl class="year-card__meta">
         <dt>Date</dt>
         <dd>August 10-14, 2026</dd>
         <dt>Speakers</dt>
-        <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
+        <dd>Magnus Wahlström (Royal Holloway), Daniel Dadush (CWI)</dd>
       </dl>
-      <p>Registration is now closed for the 2026 Summer School on Combinatorics and Algorithms.</p>
+      <p>The 2026 page includes the program, schedule, and local information for the KAIST edition.</p>
       <p><a class="year-card__link" href="/2026/en/">Open 2026 page</a></p>
     </article>
-  </div>
 
-  <div class="year-cards year-cards--archive">
     <article class="year-card">
       <p class="year-card__badge year-card__badge--past">Archive</p>
       <h2>2025</h2>

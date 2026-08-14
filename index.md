@@ -1,6 +1,6 @@
 ---
 title: Summer School on Combinatorics and Algorithms
-description: "Browse the 2024, 2025, and 2026 summer school pages."
+description: "Browse the 2024, 2025, 2026, and 2027 summer school pages."
 ---
 
 <div class="year-landing">
@@ -15,20 +15,34 @@ description: "Browse the 2024, 2025, and 2026 summer school pages."
   <div class="year-cards year-cards--featured">
     <article class="year-card year-card--featured">
       <p class="year-card__badge">Upcoming</p>
+      <h2>2027</h2>
+      <p class="year-card__subtitle">Seoul</p>
+      <dl class="year-card__meta">
+        <dt>날짜</dt>
+        <dd>2027년 8월 17-21일</dd>
+        <dt>연사</dt>
+        <dd>Daniel Lokshtanov (UC Santa Barbara), Maria Chudnovsky (Princeton University)</dd>
+      </dl>
+      <p>서울에서 열릴 2027 조합론 및 알고리듬 여름학교의 날짜와 연사가 확정되었습니다. 세부 장소와 등록 안내는 추후 공지됩니다.</p>
+      <p><a class="year-card__link" href="/2027/">2027 페이지 보기</a></p>
+    </article>
+  </div>
+
+  <div class="year-cards year-cards--archive">
+    <article class="year-card">
+      <p class="year-card__badge year-card__badge--past">Archive</p>
       <h2>2026</h2>
       <p class="year-card__subtitle">KAIST, Daejeon</p>
       <dl class="year-card__meta">
         <dt>날짜</dt>
         <dd>2026년 8월 10-14일</dd>
         <dt>연사</dt>
-        <dd>Magnus Wahlström (Royal Hollyway), Daniel Dadush (CWI)</dd>
+        <dd>Magnus Wahlström (Royal Holloway), Daniel Dadush (CWI)</dd>
       </dl>
-      <p>KAIST에서 열릴 2026 조합론 및 알고리듬 여름학교 등록이 마감되었습니다.</p>
+      <p>KAIST에서 열린 2026 여름학교의 프로그램, 일정, 현장 정보를 볼 수 있습니다.</p>
       <p><a class="year-card__link" href="/2026/">2026 페이지 보기</a></p>
     </article>
-  </div>
 
-  <div class="year-cards year-cards--archive">
     <article class="year-card">
       <p class="year-card__badge year-card__badge--past">Archive</p>
       <h2>2025</h2>
