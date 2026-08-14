@@ -73,4 +73,4 @@ description: "Browse the 2024, 2025, 2026, and 2027 summer school pages."
   </div>
 </div>
 
-{% include logo.html %}
+{% include logo.html inha=true %}
